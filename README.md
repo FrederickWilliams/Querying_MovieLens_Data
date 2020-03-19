@@ -4,7 +4,7 @@ This week you will be using the MovieLens 1 million ratings dataset. By the time
 
 Broadly, this assignment will follow the FTE&#39;s progression:
 
-- Load MovieLens tables into SQLite (good time to find that &quot;multiple insert&quot;)
+- Load MovieLens tables into a SQL database (good time to find that &quot;multiple insert&quot;)
 - Create a query to retrieve reviews into a cursor
 - Create a dataclass that represents a movie review
 - Translate rows of the cursor into a list of MovieReview objects
